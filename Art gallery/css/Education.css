@@ -243,22 +243,22 @@
     transition: all ease 0.6s;
   }
   #card1 {
-    background-image: url("images/pencil2.jpg");
+    background-image: url("../images/pencil2.jpg");
   }
   #card2 {
-    background-image: url("images/color2.webp");
+    background-image: url("../images/color2.webp");
   }
   #card3 {
-    background-image: url("images/abstract1.jpg");
+    background-image: url("../images/abstract1.jpg");
   }
   #card4 {
-    background-image: url("images/oil4.jpg");
+    background-image: url("../images/oil4.jpg");
   }
   #card5 {
-    background-image: url("images/abstract6.jpg");
+    background-image: url("../images/abstract6.jpg");
   }
   #card6 {
-    background-image: url("images/portrait.jpg");
+    background-image: url("../images/portrait.jpg");
   }
   .overlay {
     height: 100%;
